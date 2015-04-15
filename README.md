@@ -1,3 +1,3 @@
-## Testing Repository 2
+## Testing Repository
 
 ...
